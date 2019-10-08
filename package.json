@@ -1,0 +1,19 @@
+{
+  "name": "flightdatahub",
+  "version": "1.0.0",
+  "description": "Backend of FlightDataHub",
+  "main": "app.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlipatin/FlightDataHub.git"
+  },
+  "author": "Daniel Lipatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlipatin/FlightDataHub/issues"
+  },
+  "homepage": "https://github.com/dlipatin/FlightDataHub#readme"
+}
